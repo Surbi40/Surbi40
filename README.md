@@ -47,7 +47,7 @@ I regularly write about my ML journey and insights on
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/surbi-karki-b98625240/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surbi%20Karki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surbi-karki-b98625240/)  
 
 
 
