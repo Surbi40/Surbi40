@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm currently pursuing my degree in Software Engineering and exploring the world of Machine Learning & Deep Learning.  
 Solving real-world problems and discovering hidden patterns with ML algorithms?  
@@ -13,27 +13,71 @@ Yeah, that’s my version of magic ✨
 
 ---
 
-### ⚙️ Tech Stack
+##  Technical Skills
 
-- 🐍 Python, Django  
-- 🔬 PyTorch, TensorFlow, Scikit-Learn  
-- 🧠 NLP & Deep Learning  
-- 📊 NumPy, Pandas  
+**Programming**
+- Python, SQL  
+
+**Machine Learning & AI**
+- Supervised & Unsupervised Learning  
+- Classification, Regression, Clustering  
+- Feature Engineering, PCA  
+- Model Evaluation, Cross-Validation  
+- Time Series, Anomaly Detection  
+- Explainable AI (XAI)  
+
+**Deep Learning & NLP**
+- Neural Networks (Fundamentals)  
+- Computer Vision (YOLOv8)  
+- NLP, Transformers  
+- LLM Concepts, RAG Systems  
+- Vector Databases  
+
+**Libraries & Frameworks**
+- NumPy, Pandas, SciPy  
+- Scikit-learn, TensorFlow, PyTorch  
+- Hugging Face  
+
+**Backend & Tools**
+- FastAPI, Django, Streamlit  
+- Git, Postman, Jupyter Notebook  
+
+**Data Engineering**
+- Data Cleaning & Transformation  
+- EDA, ETL/ELT Concepts  
+- SQL-based Data Analysis  
+
+**Cloud & MLOps (Foundational)**
+- AWS Basics  
+- Docker  
+- ML Pipelines  
 
 ---
 
-### 🚀 Projects
+###  Projects
+ ** Postpartum Depression Analysis & Recommendation System (PPD AI)**  
+    A hybrid ML + clinical screening system for early mental health risk detection in postpartum individuals.
 
-- 🔍 **PCOS Prediction System**  
-  A machine learning model to predict Polycystic Ovary Syndrome using clinical and lifestyle data.  
-  _Solving real healthcare problems with smart algorithms._
+  - Combines EPDS questionnaire scoring with ML-based prediction model  
+  - Uses patient features for improved risk assessment  
+  - Built a recommendation system using PubMed API + curated articles  
+  - Focused on early awareness and mental health support (not diagnosis)  
 
----
+Tech: Python, Scikit-learn, Pandas, PostgreSQL, PubMed API, Django (in progress)
 
-### 🎯 Learning Goals
+** PCOS Prediction System**  
+Built an ML-based diagnostic support system using clinical + lifestyle data.  
+- Focus: early detection support using classification models  
+- Outcome: data-driven healthcare decision assistance  
+- Tech: Python, Scikit-learn, Pandas
 
-- Solve real-world problems using ML & DL  
-- Get hands-on with NLP, TTS, and AI system design  
+###  Learning Goals
+
+- Advanced Machine Learning & Deep Learning  
+- NLP + LLM-based systems  
+- RAG pipeline design  
+- AI system architecture (not just models)  
+- Production-ready ML applications  
 - Share my journey and learnings through blogs
 
 ---
