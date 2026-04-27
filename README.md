@@ -63,6 +63,7 @@ Healthcare ML model for risk prediction.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surbi%20Karki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surbi-karki-b98625240/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-subisu-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/subisu)
 
 ---
 
