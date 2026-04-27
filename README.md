@@ -16,32 +16,11 @@ I am currently learning and building in ML, DL, LLM-based systems, and backend e
 ## Technical Skills
 **Programming:** Python, SQL, Bash/Shell scripting
 **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Clustering, Feature Engineering, Model Evaluation & Cross-Validation, PCA, Time Series, Anomaly Detection  
-**Deep Learning & AI:** Neural Networks (MLP, CNN basics), Backpropagation, Optimization, Transformers (basic), LLM fundamentals, Prompt Engineering, RAG (intro)  
-**GenAI / LLM Systems:** LLM app design, RAG pipelines, Vector DBs (intro), Context engineering, Agent systems (intro), LLM evaluation  
+**Deep Learning & AI:** Neural Networks (MLP, CNN ), Backpropagation, Optimization, Transformers , LLM fundamentals, Prompt Engineering, RAG 
+**GenAI / LLM Systems:** LLM app design, RAG pipelines, Vector DBs , Context engineering, Agent systems , LLM evaluation  
 **Backend Development:** FastAPI, Django, REST APIs, PostgreSQL, ML/LLM API integration, Auth basics, System design basics  
 **Tools & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch (basic–intermediate), Hugging Face, Git, Postman, Jupyter  
 **Math for ML:** Linear Algebra, Probability & Statistics, Calculus (gradients & optimization intuition)
-
----
-## Projects
-
-### Postpartum Depression Analysis System
-ML-based system for early risk detection.
-
-- Built classification model using structured clinical data and questionnaire scoring  
-- Integrated PubMed API for recommendation support and FastAPI backend
-
-**Tech:** Python, Scikit-learn, Pandas, PostgreSQL, FastAPI
-
----
-### PCOS Prediction System
-Healthcare ML model for risk prediction.
-
-- Built classification model using clinical data  
-- Performed preprocessing and feature selection with focus on interpretability  
-
-**Tech:**  Python, Scikit-learn, Pandas, PostgreSQL, Django
----
 
 ## Research & Current Focus
 
