@@ -1,37 +1,34 @@
 <h1 align="center">Hey 👋, I'm Surbi (Subisu)</h1>
 
 <p align="center">
-  <i>Machine Learning | Deep Learning | Generative AI | Backend Systems</i>
+   <b>Software Engineer • NLP Research Enthusiast</b>
 </p>
 
 ---
 
 ## About Me
-I am a software engineering student focused on machine learning, deep learning, generative AI, and backend development.  
-I enjoy building systems where data, models, and APIs work together to solve real problems. My focus is on understanding how modern AI systems work and applying them in practical use cases.  
-I am currently learning and building in ML, DL, LLM-based systems, and backend engineering.
+I'm a **Software Engineer** with research interests in **Natural Language Processing (NLP)** and **Machine Learning**. 
+My work lies at the intersection of software engineering and modern NLP, where I explore how language models can be made more reliable, secure, and trustworthy. I'm particularly interested in developing robust LLM-based systems through representation learning, adversarial robustness, retrieval-augmented generation, and privacy-preserving machine learning.
 
 ---
 
-## Technical Skills
-**Programming:** Python, SQL, Bash/Shell scripting
-**Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Clustering, Feature Engineering, Model Evaluation & Cross-Validation, PCA, Time Series, Anomaly Detection  
-**Deep Learning & AI:** Neural Networks (MLP, CNN ), Backpropagation, Optimization, Transformers , LLM fundamentals, Prompt Engineering, RAG 
-**GenAI / LLM Systems:** LLM app design, RAG pipelines, Vector DBs , Context engineering, Agent systems , LLM evaluation  
-**Backend Development:** FastAPI, Django, REST APIs, PostgreSQL, ML/LLM API integration, Auth basics, System design basics  
-**Tools & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch (basic–intermediate), Hugging Face, Git, Postman, Jupyter  
-**Math for ML:** Linear Algebra, Probability & Statistics, Calculus (gradients & optimization intuition)
+## Research Interests
 
-## Research & Current Focus
+- Natural Language Processing (NLP)
+- Trustworthy Large Language Models
+- Adversarial Robustness of Language Models
+- Retrieval-Augmented Generation (RAG)
+- Representation Learning
+- Hallucination & Factuality
+- Multilingual NLP
+- Low-Resource NLP
+- Privacy-Preserving Machine Learning (PPML)
 
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)  
-- Agent-based and multimodal AI systems  
-- Explainable AI (XAI) and model evaluation  
-- AI system design with backend integration  
-- Healthcare applications of AI  
-- Building and deploying LLM-based applications  
-- Improving deep learning fundamentals  
-- Moving toward production-ready ML systems 
+## Current Research
+
+**Tensor Decomposition for Adversarial Prompt Injection Detection in Retrieval-Augmented Generation Systems**
+
+Investigating tensor decomposition-based representation learning methods to improve the robustness of LLM-powered applications against adversarial attacks.
 
 ---
 
