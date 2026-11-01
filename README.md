@@ -8,23 +8,7 @@
 
 ## About Me
 
-I'm a Software Engineer working at the intersection of **Natural Language Processing, AI Systems, and Distributed Computing**.
-
-My current focus is **Trustworthy AI** and **Representation Learning**, with interests in **LLM inference, runtime systems, and efficient AI infrastructure**.
-
----
-
-## Interests
-
-- NLP & Large Language Models (LLMs)
-- Agentic AI & Retrieval-Augmented Generation (RAG)
-- LLM Inference & Serving Systems
-- Distributed Systems & Runtime Infrastructure
-- Programming Languages
-- Trustworthy AI & Representation Learning
-
----
-
+I'm a Software Engineer with research interests in AI Systems and Distributed Systems, particularly LLM inference infrastructure, memory management, runtime systems, and distributed AI workloads. My work and research interests focus on understanding and optimizing the systems that underpin modern AI, exploring how memory hierarchies, workload scheduling, parallel execution, and distributed resource management influence inference performance, computational efficiency, and scalability. I am particularly interested in the intersection of computer systems and AI infrastructure, combining systems-level understanding with implementation and experimental evaluation.
 ## Writing
 
 📖 Medium: https://medium.com/@subisurbiee
